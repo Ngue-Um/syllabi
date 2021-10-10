@@ -28,3 +28,13 @@ L'automatisation de certaines de ces taches, par exemple la traduction automatiq
 
 Voilà pourquoi les programmees qui permettent la traduction automatique ou la reconnaissance de la voie sont généralement fournies pour des compagnies ou des organisations bien dotées en ressources humaines et financières.
 
+À côté des taches complexes telles que la traduction automatique et la reconnaissance de la voie, il existe une gamme de taches plus souples et réalisables avec un minimum de connaissances informatiques et de ressources. Parmi ces taches accessibles, on peut citer :
+
+- l'extraction d'informations ciblées dans un texte ou un ensemble de textes (par exemple, l'ensembles des émoticones dans un forum Whatsapp) ;
+- la classification de l'information textuelle à partir d'une ou de plusieurs sources (par exemple, l'ensembles des émoticones exprimant des émotions positives dans un forum Whatsapp) ;
+- la modélisation du style d'un internaute (par exemple, pouvoir reconnaître le style d'un internaute qui se cache derrière plusieurs "faux" profils) ;
+- la compilation d'une liste de mots à partir d'un texte ou d'un ensemble de textes (exemple, le vocabulaire d'un internaute ou d'un auteur particulier) ;
+- la fréquence des mots dans un ou plusieurs textes ;
+- la collocation ou concordancement (les mots qui apparaissent ensemble, les uns à côtés des autres) ;
+- etc.
+
