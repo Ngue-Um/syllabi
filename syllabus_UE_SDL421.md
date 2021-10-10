@@ -38,3 +38,22 @@ Voilà pourquoi les programmees qui permettent la traduction automatique ou la r
 - la collocation ou concordancement (les mots qui apparaissent ensemble, les uns à côtés des autres) ;
 - etc.
 
+## Objectifs du syllabus
+
+Ce syllabus vise :
+
+- à donner à l'apprenant.e.s une idée précise du fonctionnement de l'ordinateur ;
+- à initier les apprenant.e.s à interagir avec l'ordinateur en formulant des instructions spécifiques sous forme de texte (par opposition à l'utilisation des boutons, des fenêtres et de la souris) ;
+- à initier l'apprenant.e à l'automatisation des taches de langage moins complexes, dans le cadre de la recherche en sciences sociales et humaines ;
+- à initier l'apprenant.e à l'utilisation de Github comme espace aux de travail collaboratif à distance, d'archivage et de publication des textes de nature diverse.
+
+## Compétences visées
+
+En suivant ce syllabus de bout en bout, vous pourrez par la suite:
+
+- comprendre techniquement le fonctionnement d'un ordinateur ;
+- créer votre propre environnement de travail dans la plateforme Github, d'y publier des textes comme le présent syllabus et de collaborer sur un même projet avec d'autres auteurs ;
+- travailler en ligne de commande (interagir avec l'ordinateur à l'aide d'instructions formulées sous forme de texte) ;
+- réaliser de manière automatique ou semi-automatique des taches de traitement du langage moins complexes listées précédemment (extraction et classification de l'information textuelle, fréquence des mots, listes des mots, stylométrie, concordancement, etc.)
+
+## Organistion du syllabus
