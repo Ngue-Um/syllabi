@@ -57,6 +57,32 @@ En suivant ce syllabus de bout en bout, vous pourrez par la suite:
 - préparer un texte ou une collection de textes en vue du traitement automatique ou semi-automatique de l'information linguistique ;
 - réaliser de manière automatique ou semi-automatique des taches de traitement du langage moins complexes listées précédemment (extraction et classification de l'information textuelle, fréquence des mots, listes des mots, stylométrie, concordancement, etc.)
 
-[Suivant >>>](https://github.com/Ngue-Um/syllabi/blob/main/syllabus_UE_SDL421.md#organistion-du-syllabus)
+## Organistion du cours
 
-## Organistion du syllabus
+Ce cours est organisé en cinq modules.
+
+Le premier module a trait à l'écosystème de l'ordinateur. Il aborde sommairement l'architecture numérique de l'ordinateur et les procédés par lesquels ce dernier enregistre l'information, l'interprète puis la visualise à travers une interface comme l'écran.
+
+Le deuxième module aborde le codage de l'information numérique. Le codage est une technique qui consiste à représenter l'information (par exemple des caractères dans un texte) par des codes standards compréhensibles par toutes les machines. Ce module introduit le système de codage [UNICODE](https://fr.wikipedia.org/wiki/Unicode) qui est le standard international défaut permettant l'échange de l'information à travers plusieurs plateformes, plusieurs environnements de travail et plusieurs ordinateurs à l'échelle globale.
+
+Le troisième module est relatif à l'interaction en [ligne de commande](https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande) entre l'usager et l'ordinateur. Ce module passe en revue les commandes (les instructions écrites) essentielles permettant de réaliser des opérations de traitement automatique ou semi-automatique de l'information numérique (textes et nombres).
+
+Le quatrième module traite de corpus en linguistique et en littérature computationnelles. Nous aborderons les méthodes et techniques d'élaboration des corpus de même quelques outils et techniques d'exploration des corpus.
+
+Le cinquième et dernie module concerne le logiciel [Git](https://fr.wikipedia.org/wiki/Git) et l'environnement de travail [Github](https://github.com/).
+
+Chaque module comporte un tutoriel qui aborde les différentes étapes à suivre en vue de réaliser une compétence donnée. Les modules sont conçus dans une logique progressive et complémentaire. Il est par conséquent recommandé aux débutant.e.s de commencer par le premier module puis de continuer avec les suivants dans leur ordre d'enchaînement. Les apprenant.e.s plus avancé.e.s pourront, à leur guise, choisir quel module aborder en priorité.
+
+## Pré-requis
+
+Pour tirer le meilleur de ce cours et des tutoriels qui l'accompagnent, les apprenant.e.s sont invité.e.s à se munir des outils et des ressources suivants :
+
+- un ordinateur en bon état de fonctionnement ;
+- une connexion internet stable ;
+- un ou plusieurs textes au format numérique et éditable (le traitement des données sous forme d'image et de textes non éditables tels que le format PDF ne fait pas partie des aspects du présent cours).
+
+En outre, les apprenant.e.s sont invité.e.s à installer sur leurs ordinateurs les logiciels suivants :
+
+- [WSL (Windows Subsystem for Linux)](https://docs.microsoft.com/en-us/windows/wsl/install) ;
+- [git](http://git-scm.com/download/win)
+- [git bash](https://github-releases.githubusercontent.com)
