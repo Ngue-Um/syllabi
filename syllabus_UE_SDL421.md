@@ -57,4 +57,6 @@ En suivant ce syllabus de bout en bout, vous pourrez par la suite:
 - préparer un texte ou une collection de textes en vue du traitement automatique ou semi-automatique de l'information linguistique ;
 - réaliser de manière automatique ou semi-automatique des taches de traitement du langage moins complexes listées précédemment (extraction et classification de l'information textuelle, fréquence des mots, listes des mots, stylométrie, concordancement, etc.)
 
+[Suivant >>>](https://github.com/Ngue-Um/syllabi/blob/main/syllabus_UE_SDL421.md#organistion-du-syllabus)
+
 ## Organistion du syllabus
