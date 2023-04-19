@@ -9,13 +9,27 @@ Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
 
 ## Admission requirements
 
+Members of the Search Committee for the recruitment of a full professor in African linguistics at the [Humanities Faculty](https://www.universiteitleiden.nl/en/humanities) , and designated students of the BA African Studies and BA Linguistics study programmes of at [Leiden University](https://www.universiteitleiden.nl/en) 
+
 ## Description
+
+This course provides an introduction to the language reality of Africa in terms of languages count, geographical dispersion, historical evolution and social dynamics. It is given as an undergraduate elective course to students in Linguistics, African Studies and International Studies programs. The course is intended both to students with no linguistics background, and students who have had courses on *Languages of the world* and *Speech sounds of the world*.
 
 ## Course objectives
 
 ### General learning objectives
+At the end of this course, students will be able to:
 
-### Learning objectives, specific to graduate studies
+1. Successfully create maps by reusing [publicly available R code](https://github.com/digitalkoine/PizzaMap-learn-to-code-maps-in-R-).
+
+2. Automated the classifiction of any of the world's language.
+
+3. Infer and analyse the age of divergence of a languge group from others.
+
+4. Critically analyse the perspectives of language classification and discourses thereon.
+
+
+### Learning objectives, specific to under graduate studies program
 
 ### Learning objectives, specific to this lecture
 
