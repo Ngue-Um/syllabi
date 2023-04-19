@@ -46,7 +46,7 @@ Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
 ## Contact
 
 ## Credit
-This course
+Part of this course is an adaption from Bonny Sands (2009)'s article entitled(Teaching and Learning Guide for:Africa's Linguistic Diversity)[https://compass.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1749-818X.2009.00161.x]
 
 ## Remarks
 This syllabus is designed as a mock course. 
