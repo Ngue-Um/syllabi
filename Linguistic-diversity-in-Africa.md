@@ -1,7 +1,7 @@
 # Linguistic diversity in Africa
 
 ## Course information
-Professor: Emmanuel Ngue Um
+Teacher: [Emmanuel Ngue Um](www.linkedin.com/in/emmanuel-ngue-um-a8a055155)
 
 Time: Mondays & Thursdays, 13.00 - 14.30
 
@@ -22,7 +22,7 @@ At the end of this course, students will be able to:
 
 1. Successfully create maps by reusing [publicly available R code](https://github.com/digitalkoine/PizzaMap-learn-to-code-maps-in-R-).
 
-2. Automated the classifiction of any of the world's language.
+2. Automate the classifiction of any of the world's language.
 
 3. Infer and analyse the age of divergence of a languge group from others.
 
