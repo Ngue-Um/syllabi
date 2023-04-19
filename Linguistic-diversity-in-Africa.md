@@ -48,5 +48,7 @@ Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
 ## Credit
 Part of this course is an adaption from Bonny Sands (2009)'s article entitled [Teaching and Learning Guide for:Africa's Linguistic Diversity](https://compass.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1749-818X.2009.00161.x)
 
+This course uses additional resources, in particular language maps, the links to which were provided to me by Dr Anna Belew  of the [Endangered Languages Project](https://www.endangeredlanguages.com/), and Benjamin Martin of the [Kamusi Project International](https://kamusi.org/)
+
 ## Remarks
 This syllabus is designed as a mock course. 
