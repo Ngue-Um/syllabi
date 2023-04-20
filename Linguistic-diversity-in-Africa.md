@@ -37,7 +37,7 @@ At the end of this course, students will be able to:
 
 2. The student engage the public on the topics of language diversity in Africa, through Wikipedia and/or blog articles, a term paper assignment, and on social media.
 
-### **Learning objectives, specific to this one-shot lecture**
+### **Learning objectives, specific to [this one-shot lecture](https://docs.google.com/presentation/d/1sluXIob1yjTQ_pbkA3y_uKLtBZUqfMfqe-d2DzEoDpQ/edit?usp=sharing)**
 1. Students and participants of this lecture critically engage in the assessment of the mainstream picture concerning language diversity in Africa.
 
 2. Students and participants of this lecture are engaged in furthering their knowledge and understanding of the language reality of Africa.
