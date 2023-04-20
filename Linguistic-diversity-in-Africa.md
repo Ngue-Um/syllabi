@@ -1,5 +1,7 @@
 # **Linguistic diversity in Africa**
 
+## [Slides](https://docs.google.com/presentation/d/1sluXIob1yjTQ_pbkA3y_uKLtBZUqfMfqe-d2DzEoDpQ/edit?usp=sharing)
+
 ## **Course information**
 Teacher: [Emmanuel Ngue Um](https://www.linkedin.com/in/emmanuel-ngué-um-98663769/)
  
@@ -14,7 +16,7 @@ Designated students of the BA African Studies and BA Linguistics study programme
 ## **Description**
 
 This course provides an introduction to the language reality of Africa, both from the perspective of language classifications and self representations of African societies. Topics of interest of the course are the following:  languages count in Africa, historical and social dynamics of language evolution, geographical dispersion and language mapping, linguistic classification methods and tools, language dating methods and tools, evaluating language classification, areal diffusion of language features, phonetic and phonological diversity of African languages. The course is thought to be given as an undergraduate elective course to students in Linguistics, African Studies and International Studies programs. The course is intended both to students with no linguistics background, and students who have had courses on *Languages of the world* and *Speech sounds of the world*.
-As a mock course, the topic chosen for the one-shot teaching presentation focuses on **language diversity in Africa. *From scientific classificatiions to self representations of African societies***
+As a mock course, the topic chosen for the one-shot teaching presentation focuses on **language diversity in Africa. *Classificatiions and Ethnolinguistic representations representations***
 
 ## **Course objectives**
 
@@ -63,7 +65,26 @@ Not applicable
 
 ## **Reading list**
 
+* Sands, B. (2009), Teaching and Learning Guide for: Africa’s Linguistic Diversity. Language and Linguistics Compass, 3: 1357-1365. [https://doi.org/10.1111/j.1749-818X.2009.00161.x](https://doi.org/10.1111/j.1749-818X.2009.00161.x)
 
+2. Blench, R. (2013), MOTHER TONGUE, Journal of the Association for the Study of Language in Prehistory • Issue XVIII pp. 43-68. • 50th Anniversary of J.H. Greenberg’s The Languages of Africa (1963).
+
+3. Ngué Um, E. (2020), Had Ferdinand de Saussure spoken Wolof or Basaa..., the discipline of linguistics would have fared differently. Language, Culture and Society 2:1. Amsterdam: John Benjamins Publishing, 107‐116.
+
+
+## Videos
+
+1. [Causes of multilingualism](https://vimeo.com/chouettefilms?embedded=true&source=video_title&owner=787351) 
+
+2. [Languages of Africa](https://youtu.be/1WhIiqHr0q0) 
+
+## Maps
+
+1. [Wikimedia.org](https://commons.wikimedia.org/wiki/Category:Linguistic_maps_of_Africa#/media/File:African_language_families.png)
+
+2. [Muturzikin.com](https://www.muturzikin.com/carteafrique.htm)
+
+3. [Vividmaps.com](https://vividmaps.com/detailed-map-of-africas-languages/)
 
 ## **Registration**
 Students who take part in the teaching presentation are designated by the the [Leiden University Center for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics) Search Commitee
