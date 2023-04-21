@@ -1,6 +1,5 @@
 # **Linguistic diversity in Africa**
 
-## [Slides](https://docs.google.com/presentation/d/1sluXIob1yjTQ_pbkA3y_uKLtBZUqfMfqe-d2DzEoDpQ/edit?usp=sharing)
 
 ## **Course information**
 Teacher: [Emmanuel Ngue Um](https://www.linkedin.com/in/emmanuel-ngué-um-98663769/)
@@ -46,23 +45,18 @@ At the end of this course, students will be able to:
 ## **Time table**
 
 ## **Mode of instruction**
-- students and participants to this course are advised to review the resources that come with this course guide, preferaby before the teaching presentation.
-- A one-shot 30-minute teaching presentation followed by 10-minute discussion.
+
+- Lectures
+- Work groups with hands-on sessions
 
 ## **Assessment method**
-Not applicable
-
-### **Examination**
-Not applicable
+- The term paper for this course will consist of a Wikipedia or a blog article including multimedia material on a specific topic discussed during the course.
+- Oral presentation during the course.
 
 ### **Weigthing**
-Not applicable
-
-### **Deadlines**
-Students and participants of the one-shot teaching presentation are expected to have reviewed the maps and the videos whose links are provided with this course guide.
-
-### **Resit**
-Not applicable
+Class participation: 10%
+Oral presentation: 20%
+Final assignment: 70%
 
 ## **Reading list**
 
@@ -71,11 +65,22 @@ Not applicable
 2. Blench, R. (2013), MOTHER TONGUE, Journal of the Association for the Study of Language in Prehistory • Issue XVIII pp. 43-68. • 50th Anniversary of J.H. Greenberg’s The Languages of Africa (1963).
 
 3. Ngué Um, E. (2020), Had Ferdinand de Saussure spoken Wolof or Basaa..., the discipline of linguistics would have fared differently. Language, Culture and Society 2:1. Amsterdam: John Benjamins Publishing, 107‐116.
+ 
+ More readings will be provided throughout the course.
+
+### **Preparatory Readings**
+Students and participants of the one-shot teaching presentation are expected to have reviewed the maps and the videos whose links are provided with this course guide.
+
+### **Resit**
+Not applicable
 
 
-## Videos
+
+## Videos for the course
 
 1. [Causes of multilingualism](https://vimeo.com/chouettefilms?embedded=true&source=video_title&owner=787351) 
+
+## Videos the lecture
 
 2. [Languages of Africa](https://youtu.be/1WhIiqHr0q0) 
 
@@ -98,11 +103,6 @@ Students who take part in the teaching presentation are designated by the the [L
 
 ## **Contact**
 ngueum@gmail.com 
-
-## **Credit**
-Part of this course is an adaption from Bonny Sands (2009)'s article entitled [Teaching and Learning Guide for:Africa's Linguistic Diversity](https://compass.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1749-818X.2009.00161.x)
-
-This course uses additional resources, in particular language maps, the links to which were provided to me by Dr Anna Belew  of the [Endangered Languages Project](https://www.endangeredlanguages.com/), and Benjamin Martin of the [Kamusi Project International](https://kamusi.org/)
 
 ## **Remarks**
 Students who take part in the one-shot teaching presentation are encouraged to further their learning experience of the language reality of Africa through the suggested readings. 
