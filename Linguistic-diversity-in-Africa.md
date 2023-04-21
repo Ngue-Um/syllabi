@@ -22,20 +22,21 @@ As a mock course, the topic chosen for the one-shot teaching presentation focuse
 
 ### **General learning objectives**
 At the end of this course, students will be able to:
+1. critically discuss the validy of the discourses about the language reality of Africa
 
-1. Successfully create maps by reusing [publicly available R code](https://github.com/digitalkoine/PizzaMap-learn-to-code-maps-in-R-).
+2. engage with different perspectives on the social dimension of language in African societies
 
-2. Automate the classifiction of any of the world's language.
+3. disseminate the knowledge about topics of language diversity in Africa to the general public through Wikipedia and/or blog post, as well as social media outlet
 
-3. Infer and analyse the age of divergence of a languge group from others.
+4. Successfully create maps by reusing [publicly available R code](https://github.com/digitalkoine/PizzaMap-learn-to-code-maps-in-R-).
 
-4. Critically assess scientific classifications agains the insider's perspective to the African language reality. 
+5. Engage with digital tools for the classification of the world's language.
+
+6. Depending on the background of the students, students will be able to gather and process information with any of the digital resources listed at the end of this document.
+
+4. understand African discourses on the language realities. 
 
 
-### **Learning objectives, specific to under graduate studies program**
-1. The student critically discuss the validy of the discourses about the language reality of Africa, by confronting knowledge positivistic gained through scientific classifications, and the persective of African societies that stresses the social dimension of language.
-
-2. The student engage the public on the topics of language diversity in Africa, through Wikipedia and/or blog articles, a term paper assignment, and on social media.
 
 ### **Learning objectives, specific to [this one-shot lecture](https://docs.google.com/presentation/d/1sluXIob1yjTQ_pbkA3y_uKLtBZUqfMfqe-d2DzEoDpQ/edit?usp=sharing)**
 1. Students and participants of this lecture critically engage in the assessment of the mainstream picture concerning language diversity in Africa.
@@ -78,13 +79,19 @@ Not applicable
 
 2. [Languages of Africa](https://youtu.be/1WhIiqHr0q0) 
 
-## Maps
+## Sotfware and digital resources used during the course
 
 1. [Wikimedia.org](https://commons.wikimedia.org/wiki/Category:Linguistic_maps_of_Africa#/media/File:African_language_families.png)
 
 2. [Muturzikin.com](https://www.muturzikin.com/carteafrique.htm)
 
 3. [Vividmaps.com](https://vividmaps.com/detailed-map-of-africas-languages/)
+
+4. WALS
+
+5. Github
+
+6. R
 
 ## **Registration**
 Students who take part in the teaching presentation are designated by the the [Leiden University Center for Linguistics](https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics) Search Commitee
