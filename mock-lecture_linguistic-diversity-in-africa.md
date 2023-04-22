@@ -1,8 +1,8 @@
-## Lecture one
+# Lecture one
 
-## [<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
+### [<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
 
-## [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
+### [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
 
 
 ## [Slides of lecture one](https://docs.google.com/presentation/d/1sluXIob1yjTQ_pbkA3y_uKLtBZUqfMfqe-d2DzEoDpQ/edit#slide=id.g2375450dfc2_0_266)
@@ -20,14 +20,14 @@ Designated students of the BA African Studies and BA Linguistics study programme
 3. Students and participans of this lecture are engaged in furthering and disseminating their knowledge and understanding of the language reality of Africa.
 
 
-# **Mode of instruction**
+## **Mode of instruction**
 - Lecture
 
 ## **Preparatory Readings**
 Students and participants of the one-shot teaching presentation are expected to have reviewed the [maps](https://commons.wikimedia.org/wiki/Category:Linguistic_maps_of_Africa#/media/File:African_language_families.png) and the [video](https://youtu.be/1WhIiqHr0q0) whose links are provided with this course guide.
 
 
-### **Resit**
+## **Resit**
 Not applicable
 
 
@@ -43,6 +43,6 @@ Students who take part in the teaching presentation are designated by the the [L
 ngueum@gmail.com 
 
 ##
-## [<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
+### [<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
 
-## [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
+### [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)

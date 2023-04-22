@@ -1,8 +1,8 @@
-## Course Guide
+# Course Guide
 
-## [Go to lecture one >>](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
+### [Go to lecture one >>](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
 
-## [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
+### [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
 
 ## Description
 This course provides an introduction to the language reality of Africa, with an emphasis on language classifications and the linguistic geography of the continent. Language classifications will be studied both from the structural linguistics perspectice (phonology,morphology, syntaxt) and the sociolinguistics sociocultural perspective (influences of languages from outside the continent, language contact, migrations). The course will also cover ethnolinguistic representations of African societies about their language reality.
@@ -28,7 +28,7 @@ This course provides an introduction to the language reality of Africa, with an 
 - The term paper for this course will consist of a Wikipedia or a blog article including multimedia material on a specific topic discussed during the course.
 - Oral presentation during the course.
 
-### **Weigthing**
+## **Weigthing**
 Class participation: 10%
 Oral presentation: 20%
 Final assignment: 70%
@@ -52,7 +52,7 @@ Final assignment: 70%
  
  More readings will be provided throughout the course.
 
- # Sotfware and digital resources used during the course
+## Sotfware and digital resources used during the course
 
 1. [Wikimedia.org](https://commons.wikimedia.org/wiki/Category:Linguistic_maps_of_Africa#/media/File:African_language_families.png)
 
@@ -79,6 +79,6 @@ Final assignment: 70%
 ngueum@gmail.com 
 
 ##
-## [<< Back to lecture one](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
+### [<< Back to lecture one](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
 
-## [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
+### [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
