@@ -69,3 +69,5 @@ Final assignment: 70%
 
 ## **Contact**
 ngueum@gmail.com 
+
+[<< Back to lecture one](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
