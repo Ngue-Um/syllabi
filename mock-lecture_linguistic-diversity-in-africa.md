@@ -1,6 +1,8 @@
+## Lecture on
+
 [<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
 
-[<< Back to main page >>](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
+[<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
 
 ## **Admission requirements**
 
@@ -41,4 +43,4 @@ ngueum@gmail.com
 
 [<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
 
-[<< Back to main page >>](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
+[<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)

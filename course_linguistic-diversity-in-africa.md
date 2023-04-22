@@ -1,4 +1,6 @@
-[<< Back to lecture one](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
+## Course Guide
+
+[Go to lecture one](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
 
 [<< Back to main page >>](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
 
@@ -76,4 +78,4 @@ ngueum@gmail.com
 
 [<< Back to lecture one](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
 
-[<< Back to main page >>](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
+[<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
