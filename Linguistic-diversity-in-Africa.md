@@ -2,6 +2,9 @@
 
 
 ## **Course information**
+
+prepare two taps for a) course information and b) preparation for the first lecture (Just try to split the information into two sections)
+
 Teacher: [Emmanuel Ngue Um](https://www.linkedin.com/in/emmanuel-ngué-um-98663769/)
  
 Time: Mondays & Thursdays, 13.00 - 14.30
@@ -14,8 +17,12 @@ Designated students of the BA African Studies and BA Linguistics study programme
 
 ## **Description**
 
-This course provides an introduction to the language reality of Africa, both from the perspective of language classifications and self representations of African societies. Topics of interest of the course are the following:  languages count in Africa, historical and social dynamics of language evolution, geographical dispersion and language mapping, linguistic classification methods and tools, language dating methods and tools, evaluating language classification, areal diffusion of language features, phonetic and phonological diversity of African languages. The course is thought to be given as an undergraduate elective course to students in Linguistics, African Studies and International Studies programs. The course is intended both to students with no linguistics background, and students who have had courses on *Languages of the world* and *Speech sounds of the world*.
-As a mock course, the topic chosen for the one-shot teaching presentation focuses on **language diversity in Africa. *Classificatiions and Ethnolinguistic representations representations***
+This course provides an introduction to the language reality of Africa, both from the perspective of language classifications and ethnolinguistic representations of African societies. 
+- from the structural linguistics perspectice
+- from sociocultural perspective
+- issues on representations about language classifications.
+Topics of interest of the course are the following:  languages count in Africa, historical and social dynamics of language, geographical dispersion and language mapping, linguistic classification methods and tools, language dating methods and tools, evaluating language classification, areal diffusion of language features, phonetic and phonological diversity of African languages. The course is thought to be given as an undergraduate elective course to students in Linguistics, African Studies and International Studies programs. The course is intended both to students with no linguistics background, and students who have had courses on *Languages of the world* and *Speech sounds of the world*.
+As a mock course, the topic chosen for the one-shot teaching presentation focuses on **language diversity in Africa. *Classificatiions and Ethnolinguistic representations***
 
 ## **Course objectives**
 
