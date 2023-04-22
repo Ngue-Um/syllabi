@@ -5,7 +5,7 @@
 
 [<< Go to lecture one >>](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
 
-##[<< View course >>](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md) 
+[<< View course >>](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md) 
 
 
 

@@ -1,3 +1,7 @@
+[<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
+
+[<< Back to main page >>](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
+
 ## **Admission requirements**
 
 Designated students of the BA African Studies and BA Linguistics study programmes of the the [Humanities Faculty](https://www.universiteitleiden.nl/en/humanities) at [Leiden University](https://www.universiteitleiden.nl/en) 
@@ -36,3 +40,5 @@ Students who take part in the teaching presentation are designated by the the [L
 ngueum@gmail.com 
 
 [<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
+
+[<< Back to main page >>](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
