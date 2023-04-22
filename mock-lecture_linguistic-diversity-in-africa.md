@@ -21,7 +21,7 @@ Designated students of the BA African Studies and BA Linguistics study programme
 - Lecture
 
 ## **Preparatory Readings**
-Students and participants of the one-shot teaching presentation are expected to have reviewed the [maps]((https://commons.wikimedia.org/wiki/Category:Linguistic_maps_of_Africa#/media/File:African_language_families.png)) and the [video](https://youtu.be/1WhIiqHr0q0) whose links are provided with this course guide.
+Students and participants of the one-shot teaching presentation are expected to have reviewed the [maps](https://commons.wikimedia.org/wiki/Category:Linguistic_maps_of_Africa#/media/File:African_language_families.png) and the [video](https://youtu.be/1WhIiqHr0q0) whose links are provided with this course guide.
 
 
 ### **Resit**
