@@ -14,3 +14,6 @@ Teacher: [Emmanuel Ngue Um](https://www.linkedin.com/in/emmanuel-ngué-um-986637
 Time: Mondays & Thursdays, 13.00 - 14.30
 
 Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
+
+## **Contact**
+ngueum@gmail.com 

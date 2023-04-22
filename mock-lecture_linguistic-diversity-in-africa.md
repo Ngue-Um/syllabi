@@ -39,6 +39,7 @@ Students who take part in the teaching presentation are designated by the the [L
 ## **Contact**
 ngueum@gmail.com 
 
+##
 [<< Back to course](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md)
 
 [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
