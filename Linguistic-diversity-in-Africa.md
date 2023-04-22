@@ -9,7 +9,6 @@
 
 
 
-
 Teacher: [Emmanuel Ngue Um](https://www.linkedin.com/in/emmanuel-ngué-um-98663769/)
  
 Time: Mondays & Thursdays, 13.00 - 14.30

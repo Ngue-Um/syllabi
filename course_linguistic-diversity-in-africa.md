@@ -70,6 +70,8 @@ Final assignment: 70%
 
 1. [Causes of multilingualism](https://vimeo.com/chouettefilms?embedded=true&source=video_title&owner=787351) 
 
+2. [Languages of Africa](https://youtu.be/1WhIiqHr0q0) 
+
 ## **Registration**
 
 
