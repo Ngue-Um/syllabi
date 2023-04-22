@@ -3,7 +3,7 @@
 
 ## **Course information**
 
-##[<< Mock Lecture](https://github.com/Ngue-Um/syllabi/blob/Ngue-Um-patch-1/mock-lecture_linguistic-diversity-in-africa.md) [Course >>](https://github.com/Ngue-Um/syllabi/blob/Ngue-Um-patch-1/course_linguistic-diversity-in-africa.md)
+##[<<Mock Lecture>>](https://github.com/Ngue-Um/syllabi/blob/main/course_linguistic-diversity-in-africa.md) [<<Course>>](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
 
 
 Teacher: [Emmanuel Ngue Um](https://www.linkedin.com/in/emmanuel-ngué-um-98663769/)
