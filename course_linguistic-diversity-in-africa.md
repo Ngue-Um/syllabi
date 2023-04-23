@@ -2,6 +2,8 @@
 
 Time: Mondays & Thursdays, 13.00 - 14.30
 
+Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
+
 ### [Go to lecture one >>](https://github.com/Ngue-Um/syllabi/blob/main/mock-lecture_linguistic-diversity-in-africa.md)
 
 ### [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
