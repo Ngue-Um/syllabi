@@ -71,11 +71,11 @@ Final assignment: 70%
 
 7. [R](https://cran.r-project.org/)
 
-## Videos for the course
+8. [Kanraxel](https://www.chouettefilms.co.uk/kanraxel-home)
 
-1. [Causes of multilingualism](https://vimeo.com/chouettefilms?embedded=true&source=video_title&owner=787351) 
+## Video
 
-2. [Languages of Africa](https://youtu.be/1WhIiqHr0q0) 
+1. [Languages of Africa](https://youtu.be/1WhIiqHr0q0) 
 
 ## **Registration**
 
