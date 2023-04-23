@@ -78,6 +78,7 @@ Final assignment: 70%
 1. [Languages of Africa](https://youtu.be/1WhIiqHr0q0) 
 
 ## **Registration**
+Students of the BA African Studies, Linguistics, and International Studies Programmes are encouraged to register for this course.
 
 
 ## **Contact**
