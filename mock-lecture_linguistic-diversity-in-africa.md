@@ -9,7 +9,7 @@ Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
 ### [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
 
 ##
-## Note! The Slides for lecture one wll be accesible here on Monday, the 1st of May at 13:30
+## Note! The Slides for lecture one will be accesible **here** on Monday, the 1st of May at 12:30
 
 ## **Admission requirements**
 
