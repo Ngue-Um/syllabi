@@ -14,7 +14,7 @@ This course provides an introduction to the language reality of Africa, with an 
   ## **Course objectives**
 
   At the end of this course, students will be able to:
-1. critically assess the discourses about the language reality of Africa
+1. understand and critically assess the discourses about the language reality of Africa
 
 2. engage with different perspectives on the social dimension of language in African societies
 
@@ -26,7 +26,6 @@ This course provides an introduction to the language reality of Africa, with an 
 
 6. Depending on their background, students will be able to gather and process information with any of the digital resources listed at the end of this document.
 
-7. Understand and analyse African discourses on the language realities. 
 
 ## **Assessment method**
 - The term paper for this course will consist of a Wikipedia or a blog article including multimedia material on a specific topic discussed during the course.

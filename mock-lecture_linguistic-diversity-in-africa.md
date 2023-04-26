@@ -1,6 +1,6 @@
 # Lecture one
 
-Time: Monday, May 1. 2023, 13.00 - 14.30
+Time: Monday, May 1. 2023, 13.00 - 13.30
 
 Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
 
@@ -9,7 +9,7 @@ Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
 ### [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
 
 ##
-## [Slides of lecture one](https://docs.google.com/presentation/d/1sluXIob1yjTQ_pbkA3y_uKLtBZUqfMfqe-d2DzEoDpQ/edit#slide=id.g2375450dfc2_0_266)
+## [Slides for lecture one](https://docs.google.com/presentation/d/1sluXIob1yjTQ_pbkA3y_uKLtBZUqfMfqe-d2DzEoDpQ/edit#slide=id.g2375450dfc2_0_266)
 
 ## **Admission requirements**
 
@@ -17,11 +17,13 @@ Designated students of the BA African Studies and BA Linguistics study programme
 
 ## Specific objectives of the lecture
 
-1. Students and participants of this lecture critically understand the global discourses about language diversity in Africa.
+At the end of this course, students and other attendees will be able to:
 
-2. Students and participants of this course critically understand ethnolinguistic representations of African societies concerning their language reality.
+1. critically understand the global discourses about language diversity in Africa
 
-3. Students and participans of this lecture are engaged in furthering and disseminating their knowledge and understanding of the language reality of Africa.
+2. critically understand ethnolinguistic representations of African societies
+
+3. engage the wider audience to disseminate their knowledge about the language reality of Africa.
 
 
 ## **Mode of instruction**
