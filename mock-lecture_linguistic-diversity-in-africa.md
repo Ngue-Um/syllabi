@@ -1,6 +1,6 @@
 # Lecture one
 
-Time: Monday, May 1. 2023, 13.00 - 13.30
+Time: Monday, May 1. 2023, 13.00 - 13.40
 
 Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
 
