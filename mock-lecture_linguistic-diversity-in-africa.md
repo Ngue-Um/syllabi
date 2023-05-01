@@ -9,11 +9,11 @@ Location: Lipsius building, room 1.31, Cleveringaplaats 1, 2311BE, Leiden
 ### [<< Back to main page](https://github.com/Ngue-Um/syllabi/blob/main/Linguistic-diversity-in-Africa.md)
 
 ##
-## Note! The Slides for lecture one will be accesible **here** on Monday, the 1st of May at 12:30
+## [Slides for lecture one](https://docs.google.com/presentation/d/1sm8H58zNNphG7H8uNTrV-QMH_T_HGWBFR7ZmE1f6LLM/edit?usp=sharing) 
 
 ## **Admission requirements**
 
-Designated students of the BA African Studies and BA Linguistics study programmes of the [Humanities Faculty](https://www.universiteitleiden.nl/en/humanities) at [Leiden University](https://www.universiteitleiden.nl/en) 
+Students of the BA African Studies and BA Linguistics study programmes of the [Humanities Faculty](https://www.universiteitleiden.nl/en/humanities) at [Leiden University](https://www.universiteitleiden.nl/en) 
 
 ## Specific objectives of the lecture
 
