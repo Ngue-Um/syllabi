@@ -8,7 +8,7 @@ Ce cours porte sur le traitement automatique des langues. Il est destiné aux é
 
 ## Présentation générale du cours
 
-Le [Traitement Automatique du Langage (TAL)](https://fr.wikipedia.org/wiki/Traitement_automatique_des_langues) consiste à faire exécuter par la machine des taches de langage humain telle que la production de la parole et la production d'écrits. Le TAL consiste également à réaliser les opérations d'extraction et de modélisation de l'information linguistique dans le cadre de la recherche en sciences sociales et humaines.
+Le [Traitement Automatique du Langage (TAL)](https://fr.wikipedia.org/wiki/Traitement_automatique_des_langues) consiste à faire exécuter par la machine des tâches de langage humain telle que la production de la parole et la production d'écrits. Le TAL consiste également à réaliser les opérations d'extraction et de modélisation de l'information linguistique dans le cadre de la recherche en sciences sociales et humaines. Le TAL occupe une place centrale dans les statrégies de communication des organisations, des industries, et mêmes des États. Ceci invite à adapater la perspective de a formation universitaire en sciences du langage. 
 
 Quelques applications courantes résultant du **TAL** sont :
 
@@ -21,14 +21,14 @@ Quelques applications courantes résultant du **TAL** sont :
 - la stylométrie ;
 - la textométrie ;
 - l'analyse des sentiments ;
-- *Name Entity Recognition* ;
+- la reconnaissance d'entités nommées ; en anglais,*Name Entity Recognition* ;
 - etc.
 
-L'automatisation de certaines de ces taches, par exemple la traduction automatique et la reconnaissance automatique de la voix nécessite des technologies complexes. Le développement de ces technologies repose sur une haute expertise en informatique mais aussi, requiert des quantités de données importantes en vue d'entraîner la machine à exécuter des taches spécifiques. Par exemple, dans le cadre de *l'apprentissage automatique* ou [Machine Learning](https://fr.wikipedia.org/wiki/Apprentissage_automatique), il faut mobiliser des données d'entraînement (ou d'apprentissage) conséquentes pour que la machine puisse produire des résultats satisfaisants.
+L'automatisation de certaines de ces tâches, par exemple la traduction automatique et la reconnaissance automatique de la voix nécessite des technologies complexes. Le développement de ces technologies repose sur une haute expertise en informatique mais aussi, requiert des quantités de données importantes en vue d'entraîner la machine à exécuter des tâches spécifiques. Par exemple, dans le cadre de *l'apprentissage automatique* ou [Machine Learning](https://fr.wikipedia.org/wiki/Apprentissage_automatique), il faut mobiliser des données d'entraînement (ou d'apprentissage) conséquentes pour que la machine puisse produire des résultats satisfaisants.
 
 Voilà pourquoi les logiciels qui permettent la traduction automatique ou la reconnaissance de la voie sont généralement fournis pour des compagnies ou des organisations bien dotées en ressources humaines et financières.
 
-À côté des taches complexes telles que la traduction automatique et la reconnaissance de la voie, il existe une gamme de taches plus souples et réalisables avec un minimum de connaissances informatiques et de ressources. Parmi ces taches accessibles, on peut citer :
+À côté des tâches complexes telles que la traduction automatique et la reconnaissance de la voie, il existe une gamme de tâches plus souples et réalisables avec un minimum de connaissances informatiques et de ressources. Parmi ces tâches accessibles, on peut citer :
 
 - l'extraction d'informations ciblées dans un texte, un ensemble de textes (par exemple, l'ensembles des émoticones dans un forum [Whatsapp](https://fr.wikipedia.org/wiki/WhatsApp)) ou un tableur (Excel ou Google Sheet, par exemple) ;
 - la classification de l'information à partir d'une ou de plusieurs sources (par exemple, l'ensembles des émoticones exprimant des émotions positives dans un forum [Whatsapp](https://fr.wikipedia.org/wiki/WhatsApp)) ;
@@ -38,9 +38,13 @@ Voilà pourquoi les logiciels qui permettent la traduction automatique ou la rec
 - la collocation ou concordancement (par exemple, faire ressortir les mots qui apparaissent ensemble, les uns à côtés des autres) ;
 - etc.
 
-## Objectifs du cours
+## Objectif général du cours
 
-Ce cours vise à :
+L'objectif général de ce cours est d'initier les étudiants à la lecture distante.
+
+## Objectifs spécifiques
+
+De manière spécifique, ce cours vise à :
 
 - amener l'apprenant.e à comprendre techniquement le fonctionnement de l'ordinateur ;
 - initier l'apprenant.e à interagir avec l'ordinateur en formulant des instructions spécifiques sous forme de texte (par opposition à l'utilisation des boutons, des fenêtres et de la souris dans une interaction graphique) ;
