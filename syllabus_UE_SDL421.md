@@ -3,7 +3,7 @@
 #
 **Résumé**
 
-Ce cours porte sur le traitement automatique des langues. Il est destiné aux étudiants, enseignants et chercheurs en sciences humaines et sociales d'expression francophone, en particulier celles et ceux travaillant en Afrique. Le cours est constitué d'une suite de modules conçus pour guider les apprenant.e.s dans la découverte, la prise en main et l'opérationalisation d'outils et de techniques informatiques en vue de réaliser de manière automatique au semi-automatique des taches spécifiques de traitement de l'information.
+Ce cours porte sur le traitement automatique des langues. Il est destiné aux étudiants, enseignants et chercheurs en sciences humaines et sociales d'expression francophone, en particulier celles et ceux travaillant en Afrique. Le cours est constitué d'une suite de modules conçus pour guider les étudiants dans la découverte, la prise en main et l'opérationalisation d'outils et de techniques informatiques en vue de réaliser de manière automatique au semi-automatique des taches spécifiques de traitement de l'information.
 
 
 ## Présentation générale du cours
@@ -44,59 +44,47 @@ L'objectif général de ce cours est d'initier les étudiants à la lecture dist
 
 ## Objectifs spécifiques
 
-De manière spécifique, ce cours vise à :
+De manière spécifique, ce cours vise :
 
-- amener l'apprenant.e à comprendre techniquement le fonctionnement de l'ordinateur ;
-- initier l'apprenant.e à interagir avec l'ordinateur en formulant des instructions spécifiques sous forme de texte (par opposition à l'utilisation des boutons, des fenêtres et de la souris dans une interaction graphique) ;
-- initier l'apprenant.e à l'automatisation des taches de langage moins complexes, dans le cadre de la recherche en sciences sociales et humaines ;
-- initier l'apprenant.e à l'utilisation de Github comme espace de travail collaboratif à distance, d'archivage et de publication des textes de nature diverse.
+- l'anayse les réseaux sociaux comme territoires numériques où se déploient des discours spécifiques;
+- l'initiation aux techniques et outils de collecte, d'organisation et de normalisation des données langagières sur les réseaux sociaux ;
+- l'initiation à la lecture distante à l'aide de [Voyant tools](https://voyant-tools.org/) et [R](https://www.r-project.org/about.html).
 
 ## Compétences visées
 
-En suivant ce cours de bout en bout, vous pourrez par la suite:
+En suivant ce cours de bout en bout, vous pourrez par la suite :
 
-- comprendre techniquement le fonctionnement d'un ordinateur ;
-- créer votre propre environnement de travail dans la plateforme Github, d'y publier des textes comme le présent syllabus et de collaborer sur un même projet avec d'autres auteurs ;
-- travailler en ligne de commande (interagir avec l'ordinateur à l'aide d'instructions formulées sous forme de texte) ;
-- préparer un texte ou une collection de textes en vue du traitement automatique ou semi-automatique de l'information linguistique ;
-- réaliser de manière automatique ou semi-automatique des taches de traitement du langage moins complexes évoquées précédemment (extraction et classification de l'information textuelle, fréquence des mots, listes des mots, stylométrie, concordancement, etc.)
+- analyser les stratégies de captage de l'attention utilisée par les média/réseaux sociaux tels que [Youtube](https://www.youtube.com/), [Facebook](https://web.facebook.com/?_rdc=1&_rdr), [Instagram](https://www.instagram.com/), [X](https://twitter.com/?lang=en), etc. ;
+- collecter de manière automatique ou semi-automatique des données textuelles, photographiques, audio et audiovisuelles sur les réseaux sociaux ;
+- transcrire automatiquement ou semi-automatiquement des vidéos et des audios collectées sur les média/réseaux sociaux ;
+- analyser les textes des réseaux sociaux de manière critique (modéliser les sentiments et/ou les opinions des "influenceurs, par exemple) dans une perspective computationnelle.
 
 ## Organistion du cours
 
-Ce cours est organisé en cinq modules.
+Ce cours est organisé en trois modules.
 
-Le premier module a trait à l'écosystème de l'ordinateur. Il aborde sommairement l'architecture numérique de l'ordinateur et les procédés par lesquels ce dernier enregistre l'information, l'interprète puis la visualise à travers une interface comme l'écran.
+Le premier module a trait à l'espace numérique en tant qu'espace discursif. Nous définirons en les approfondissant, les concepts de "territoire numérique", de "communauté de discours", d'"économie de l'attention", d'"algorithme", de "techno-pouvoir".
 
-Le deuxième module aborde le codage de l'information numérique. Le codage est une technique qui consiste à représenter l'information (par exemple des caractères dans un texte) par des codes standards compréhensibles par toutes les machines. Ce module introduit le système de codage [UNICODE](https://fr.wikipedia.org/wiki/Unicode) qui est le standard international par défaut permettant l'échange de l'information à travers plusieurs plateformes, plusieurs environnements de travail et plusieurs ordinateurs à l'échelle globale.
+Le deuxième module a trait à la collecte des données sur les média/réseaux sociaux. Nous aborderons les techniques de captage massif (*web scrapping*) des textes, des images, des audios et des vidéos, à l'aide des outils graphiques mais aussi, en ligne de commande (pour les plus hardis et les aventuriers ![Alt text](image.png) !!) 
 
-Le troisième module est relatif à l'interaction en [ligne de commande](https://fr.wikipedia.org/wiki/Interface_en_ligne_de_commande) entre l'usager et l'ordinateur. Ce module passe en revue les commandes (les instructions écrites) essentielles permettant de réaliser des opérations de traitement automatique ou semi-automatique de l'information numérique (textes et nombres).
+Dans le troisième module, nous aborderons la lecture distante. Nous verrons comment explorer les données textuelles plus ou moins massives, pour extraire les paramètres les plus significatifs tels que les opinions et les sentiments. 
 
-Le quatrième module traite de corpus en linguistique et en littérature computationnelles. Nous aborderons les méthodes et techniques d'élaboration des corpus de même que quelques outils et techniques d'exploration des corpus.
-
-Le cinquième et dernier module concerne le logiciel [Git](https://fr.wikipedia.org/wiki/Git) et l'environnement de travail [Github](https://github.com/).
-
-Chaque module comporte un tutoriel qui aborde les différentes étapes à suivre en vue de réaliser une compétence donnée. Les modules sont conçus dans une logique progressive et complémentaire. Il est par conséquent recommandé aux débutant.e.s de commencer par le premier module puis de continuer avec les suivants dans leur ordre d'enchaînement. Les apprenant.e.s plus avancé.e.s pourront, à leur guise, choisir quel module aborder en priorité.
 
 ## Pré-requis
 
-Pour tirer le meilleur de ce cours et des tutoriels qui l'accompagnent, les apprenant.e.s sont invité.e.s à se munir des outils et des ressources suivants :
+Pour tirer le meilleur de ce cours, les aétudiants sont invités à se munir des outils et des ressources suivants :
 
 - un ordinateur en bon état de fonctionnement ;
 - une connexion internet stable ;
-- un ou plusieurs textes au format numérique et éditable (le traitement des données sous forme d'image et de textes non éditables tels que le format PDF ne fait pas partie des aspects du présent cours).
 
-En outre, les apprenant.e.s sont invité.e.s à installer sur leurs ordinateurs les logiciels suivants :
+En outre, les étudiants sont sont invités à installer sur leurs ordinateurs les logiciels suivants :
 
 - [WSL (Windows Subsystem for Linux)](https://docs.microsoft.com/en-us/windows/wsl/install) ;
 - [git](http://git-scm.com/download/win)
 - [git bash](https://github-releases.githubusercontent.com)
 
-## Module 1 : Architecture et fonctionnement d'un ordinateur
+Pour maximiser le temps impartis aux sessions communes en salle (lundi, de 7:30 à 9:30), l'installation de ces logiciels se fera en dehors de ces sessions. Les étudiants qui souhaitent se faire assister dans l'installation des logiciels devront se signaler auprès des enseignants.
 
-L'ordinateur est un outil omniprésent dans le quotidien d'un nombre de plus en plus croissant de personnes. Sans doute pour beaucoup de personnes encore, le mot [ordinateur](https://fr.wikipedia.org/wiki/Ordinateur) évoque avant tout un objet ou un assemblage d'objets physiques : desktop/laptop, écran, souris, clavier, etc. En réalité, l'ensemble des composants physiques qui représentent un ordinateur sont avant tout une machinerie et un système : une machinerie car chacun de ces composants est une machine particulière ; système parce que l'ensemble des machines assemblées pour constituer un ordinateur participent d'une même fonction, celle du traitement de l'information. Il serait alors plus approprié de se représenter l'ordinateur comme un système de traitement de l'information. En effet, la physionomie particulière que peut prendre la machinerie d'un ordinateur est en constante évolution ; elle est passée de la machine à caculer inventée par [Charles Babbage](https://fr.wikipedia.org/wiki/Charles_Babbage) en 1835 au [superordinateur](https://fr.wikipedia.org/wiki/Superordinateur) ou supercalculateur. Dans son aspect fonctionnel, le concept d'ordinateur rassemble une gramme très large d'outils de la vie quotidienne : téléphone, micro-onde, voiture, porte électronique, horloge, jeux vidéos, téléviseurs. La propriété commune de ces outils c'est la capacité d'exécuter des taches programmées : afficher une image, sonner à une heure choisie, chauffer à une température donnée pour un temps donné, freiner devant un obstacle, etc.
+## Module 1 : Les média/réseaux sociaux comme territoires numériques.
 
-La science informatique s'occupe, entre autres, d'élaborer les formes d'instructions à partir desquelles les ordinateurs vont pouvoir exécuter des taches précises.
-
-Un programme informatique est une suite d'instructions exécutables par un ordinateur. Par exemple, le texte que vous lisez actuellement sur votre PC ou sur votre smartphone est la traduction d'une instruction par laquelle un moteur de recherche affiche sur l'écran de votre appareil des suites de caractères stockées dans un ordinateur distant, en l'occurrence un serveur.
-
-La formulation d'instructions particulières destinées à être exécutées par un ordinateur est appellée [programmation informatique](https://fr.wikipedia.org/wiki/Programmation_informatique) ou codage. Ces instructions sont organisées en un système de signes appelé [langage de programmation](https://fr.wikipedia.org/wiki/Langage_de_programmation). 
+Ce module est basé sur l'article publié par Ngué Um et Ndindjock et intitulé [La dynamique des discours cybernétiques Point de rencontre entre « territoire numérique » et « communauté discursive » sur les réseaux sociaux ?](https://publications-prairial.fr/balisages/index.php?id=601). 
