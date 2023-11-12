@@ -109,11 +109,45 @@ L’une des contraintes de l’analyse informatique des textes, c’est de pouvo
 |😂 | 1F642 | face with tears of joy | visage avec des larmes de joie |
 |🤤 | 1F976 | hot face | visage baveux |
 
-# Tableau 1 : une liste d’émojis assortie de codes Unicode et de descriptions en anglais et en français.
+### Tableau 1 : une liste d’émojis assortie de codes Unicode et de descriptions en anglais et en français.
 
 Que nous révèle ce tableau ?
 
-- [] Premièrement, il nous révèle que des symboles graphiques qui peuvent avoir la même apparence pour l'œil humain, peuvent en réalité représenter différentes entités numériques. Ainsi, si un usager utilise dans un même discours des émojis représentant, d’une part, un « visage souriant avec de la sueur », et d’autre part, un « visage souriant avec des coeurs », cela peut renvoyer à un même champ de représentations émotionnelles du point de vue de l’oeil humain. Toutefois, les codes Unicodes correspondant à chacun de deux émojis nous indiquent que, du point de vue numérique (et donc de l’ordinateur), il s’agit de deux informations distinctes.
+-  Premièrement, il nous révèle que des symboles graphiques qui peuvent avoir la même apparence pour l'œil humain, peuvent en réalité représenter différentes entités numériques. Ainsi, si un usager utilise dans un même discours des émojis représentant, d’une part, un « visage souriant avec de la sueur », et d’autre part, un « visage souriant avec des coeurs », cela peut renvoyer à un même champ de représentations émotionnelles du point de vue de l’oeil humain. Toutefois, les codes Unicodes correspondant à chacun de deux émojis nous indiquent que, du point de vue numérique (et donc de l’ordinateur), il s’agit de deux informations distinctes.
 
-- [] Deuxièmement, nous observons que, derrière chaque signe graphique se cache un code numérique. Ainsi, la conversion du syntagme « sciences du langage » en code Unicode (UTF-8) donne le résultat suivant :
-_\u0073\u0063\u0069\u0065\u006e\u0063\u0065\u0073\u0020\u0064\u0075\u0020\u_
+-  Deuxièmement, nous observons que, derrière chaque signe graphique se cache un code numérique. Ainsi, la conversion du syntagme « sciences du langage » en code Unicode (UTF-8) donne le résultat suivant :
+_\u0073\u0063\u0069\u0065\u006e\u0063\u0065\u0073\u0020\u0064\u0075\u0020\u006c\u0061\u006e\u0067\u0061\u0067\u0065_
+
+Nous convenons aisément qu’une telle représentation poserait des problèmes de
+déchiffrage aux humains. Et encore, nous n’en sommes qu’au niveau des codes
+Unicode. En réalité, le seul langage compréhensible à l’ordinateur est le langage
+binaire (une suite de « 1 » et « 0 » (zéros)). Pour vous donner une idée, notre
+syntagme « sciences du langage » donne ce qui suit en code binaire :
+
+_01110011 01100011 01101001 01100101 01101110 01100011 01100101 01110011
+00100000 01100100 01110101 00100000 01101100 01100001 01101110 01100111
+01100001 01100111 01100101_
+
+Encore plus abscon ! N’est-ce pas ?
+
+Fort heureusement, dans ce cours, nous n’avons pas à nous préoccuper de tous ces « 1 » et « 0 », ni des codes Unicode. Néanmoins, nous pouvons mieux comprendre certains phénomènes qui se produisent dans la manipulation des textes numériques si nous gardons à l’esprit le fait que les signes graphiques usuels sont avant tout des codes numériques pour l’ordinateur.
+
+- Troisièmement enfin, nous voyons que les symboles d’apparence banale que sont les émojis constituent en réalité un système de signes bien codifiés, dont peu d’usagers ont conscience du niveau de granularité sémantique. Un sujet de recherche intéressant de Master en sciences du langage pourrait consister à collecter puis analyser les émojis dans un forum Whatsapp.
+
+## Travail à faire
+
+Collecter 10 pages de textes (taille de police 12, interligne 1,5, police de caractère Times New Roman) dans un forum Whatsapp de votre choix.
+
+**Démarche à suivre**
+1. Dans l’interface du forum de votre choix, cliquez sur les trois points alignés verticalement dans le menu supérieur de votre écran.
+2. Cliquez sur « Plus ».
+3. Cliquez sur « Exporter discussion ».
+4. Une fenêtre (pop-up) s’affiche ; cliquez sur « Sans médias » (Attention !! Si
+vous cliquez sur “Joindre médias, vous aurez à insérer toutes les images de
+votre forum WhatsApp dans le texte que vous voulez importer ; cela pourrait ralentir considérablement la procédure d’exportation, de même que les possibilités de partage du fichier exporté, à cause de sa taille).
+5. Une autre fenêtre s’affiche, vous offrant l’option d’exportation de votre choix ; choisissez votre option préférentielle (Le mail est recommandé, mais vous pouvez aussi choisir « WhatsApp », ou touet autre option de partage.
+6. Si vous avez choisi le mail (Gmail), une fenêtre d’envoi de mail s’ouvre ; insérez l’adresse email de destination (cela peut être votre propre adresse email), puis cliquez sur le bouton d’envoi du mail.
+7. Ouvrez votre boîte e-mail pour récupérer votre texte WhatsApp exporté au format texte pur (nous parlerons des formats de texte prochaînement)
+8. Cliquez sur le fichier joint (votre texte qui a été exporté de votre forum WhatsApp) dans votre mail ; une fenêtre s’affiche en bas de l’écran, vous invitant à choisir l’option d’ouverture du fichier.
+9. Choisissez l’option « Docs », puis validez en appuyant sur le bouton « Une seule fois » qui s’affiche plus bas.
+10. Une fenêtre s’affiche, vous invitant à « importer par consultation » ; cliquez sur le bouton « Importer » ; votre texte est ouvert dans Google Docs. Il ne vous reste plus qu’à l’exporter au fichier WORD ou PDF.
