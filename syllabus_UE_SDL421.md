@@ -107,4 +107,13 @@ L’une des contraintes de l’analyse informatique des textes, c’est de pouvo
 |  😊 | 1F607 | smiling face with smiling eyes | visage souriant et yeux souriants |
 |😘 | 1F617 | face blowing a kiss | visage soufflant un baiser |
 |😂 | 1F642 | face with tears of joy | visage avec des larmes de joie |
-|🤤 | 1F976 | hot face | visage baveux |      
+|🤤 | 1F976 | hot face | visage baveux |
+
+# Tableau 1 : une liste d’émojis assortie de codes Unicode et de descriptions en anglais et en français.
+
+Que nous révèle ce tableau ?
+
+- [] Premièrement, il nous révèle que des symboles graphiques qui peuvent avoir la même apparence pour l'œil humain, peuvent en réalité représenter différentes entités numériques. Ainsi, si un usager utilise dans un même discours des émojis représentant, d’une part, un « visage souriant avec de la sueur », et d’autre part, un « visage souriant avec des coeurs », cela peut renvoyer à un même champ de représentations émotionnelles du point de vue de l’oeil humain. Toutefois, les codes Unicodes correspondant à chacun de deux émojis nous indiquent que, du point de vue numérique (et donc de l’ordinateur), il s’agit de deux informations distinctes.
+
+- [] Deuxièmement, nous observons que, derrière chaque signe graphique se cache un code numérique. Ainsi, la conversion du syntagme « sciences du langage » en code Unicode (UTF-8) donne le résultat suivant :
+_\u0073\u0063\u0069\u0065\u006e\u0063\u0065\u0073\u0020\u0064\u0075\u0020\u_
