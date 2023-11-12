@@ -180,3 +180,50 @@ A première vue, [Youtube](https://www.youtube.com) héberge majoritairement des
 - [Freemake Video Downloader](https://www.freemake.com/free_video_downloader_skillful/)
 - [aTube Catcher](https://www.atube.me/)
 - [Any Video Converter](https://www.any-video-converter.com/en8/for_video_free/)
+
+Certains de ces outils sont libres alors que d'autres sont propriétaires. Dans l'un et l'autre cas, l'utilisation nécessite un téléchargement (et donc des risques concernant la cybercriminalité et la vulnérabilités des composants logiciels de votre ordinanteur ou de tout autre terminal), et/ou une souscription, impliquant la cession des données personnelles, toute chose qui peut déboucher sur une utilisation abusive.
+
+Dans le cadre de ce cours, nous préconisons une approche entièrement libre et gratuite, avec un risque minimal d'exposition aux attaques cybercriminelles et autres exploitations illicites des données. En l'occurrence, nous recommandons le téléchargement en ligne de commande à l'aide du module [pytube](https://pytube.io/en/latest/).
+
+Pour installer Pytube, vous pouvez suivre les étapes suivantes :
+
+- Ouvrez une invite de commande ou un terminal.
+- Assurez-vous que vous avez Python 3.6 ou une version ultérieure installée sur votre ordinateur. Vous pouvez vérifier la version de Python en tapant la commande suivante :
+
+_python --version_
+
+- Assurez-vous que vous avez pip installé. Pip est un gestionnaire de paquets pour Python qui est généralement installé avec Python. Vous pouvez vérifier si vous avez pip installé en tapant la commande suivante :
+
+_pip --version_
+
+- Si vous n'avez pas pip installé, vous pouvez l'installer en suivant les instructions sur le site officiel de [pip](https://pip.pypa.io/en/stable/installation/)
+Pour installer Pytube, vous pouvez utiliser la commande suivante :
+
+_pip install pytube_
+
+Une fois [pytube](https://pytube.io/en/latest/) installé, activer python dans votre terminal ou ouvrez un IDE (Environnement de développement intégré) tel que [Thonny Pyhton](https://thonny.org/), puis entrez la commande suivante :
+
+_pyhton url_de_la_video_
+
+où "url_de_la_video" correspond à l'adresse web de la vidéo que vous souhaitez téléchargar à partir de youtube.
+
+Une fois que vous avez téléchargé la vidéo, vous aurez besoin d'en extraite l'audio dans un format au format _.wav_ Pour cela, vous aurez besoin de télécharger le module [FFmpeg](https://www.ffmpeg.org/). 
+
+Entrez ensuite la commande suivante pour convertir votre vidéo initialement téléchargée au format _.wav_:
+
+_ffmpeg -i chemin_vers_la_video.mp4 audio.wav_
+
+où "chemin_vers_la_video.mp4" représente l'adresse locale de la vidéo téléhargée (exemple "/home/pi/Documents/NLP/Data/Julie/video.mp4"), et où "audio" représente le nom du fichier audio que vous voulez extraire au format _.wav_.
+
+Maintenant que vous avez votre audio, il ne vous reste plus qu'à installer [whister](https://speechandtech.eu/news/state-asr/whisper). Une fois l'installation terminée, entrez la commande suivante dans le terminal:
+
+_whisper audio.wav --language French_
+
+[whister](https://speechandtech.eu/news/state-asr/whisper) génèrement automatiquement une transcription de votre audio qu'il sauvegardera sous divers formats: texte pure (.txt), tableur (.csv), sous-titres (srt)
+
+
+### Tavail à faire
+
+1. Rendez-vous sur la chaîne youtibe d'un influenceur ou d'une influenceuse de votre choix.
+2. Téléchargez une des vidéos postées dans la chaîne.
+3. Transcrivez automatiquement la vidéo à l'aide de [whister](https://speechandtech.eu/news/state-asr/whisper) (Notez que Youtube fournit aussi une transcription automatique des vidéos, mais les annotations qui en constituent la trame sont difficilement collectables sous la forme d'un fichier texte! Vous pouvez toujours essayez 😅)
