@@ -88,3 +88,23 @@ Pour maximiser le temps impartis aux sessions communes en salle (lundi, de 7:30 
 ## Module 1 : Les média/réseaux sociaux comme territoires numériques.
 
 Ce module est basé sur l'article publié par Ngué Um et Ndindjock et intitulé [La dynamique des discours cybernétiques Point de rencontre entre « territoire numérique » et « communauté discursive » sur les réseaux sociaux ?](https://publications-prairial.fr/balisages/index.php?id=601). 
+
+## Module 2 : collecte des données sur les réseaux sociaux.
+
+Les réseaux sociaux constituent des territoires où s’élaborent, se diffusent et se recyclent les discours multiformes : textes écrits, enregistrements audio ou vidéo, images fixes, émoticônes, pour ne citer que les formes les plus utilisées. Ces données sont, à des degrés variables, des productions langagières qui intéressent le chercheur en sciences du langage.
+
+Dans une perspective computationnelle, toutefois, ces données peuvent présenter des obstacles à leur traitement automatique pour plusieurs raisons. Premièrement, il est fréquent
+que, dans un même discours, l’on rencontre une superposition de codes graphiques. Ainsi, un texte peut être parsemé d’émojis (émoticônes). De même, il n’est pas rare que dans un forum de discussion, par exemple, les usagers utilisent des langues différentes, avec chacune un système d’écriture différent. C’est le cas, par exemple, lorsqu’un forum
+WhatsApp concentre des discours produits et écrits en français avec le système d’écriture latin, et des discours en langues camerounaises écrits avec le système d’écriture phonétique. En outre, les internautes ont de plus en plus recours aux enregistrements audio ou audiovisuels pour communiquer. Ces contenus peuvent se retrouver agglomérés dans un même réseau social, un même forum de discussion, ou bien un même discours.
+
+L’une des contraintes de l’analyse informatique des textes, c’est de pouvoir normaliser les données qui intéressent le chercheur ou l’analyste. Par normalisation, nous entendons la présentation des données sous un format qui ne se prête à aucune ambiguïté du point de vue du traitement numérique. A titre d’exemple, considérons le tableau suivant qui présente une liste d’émojis.
+
+| Emoji  | Code Unicode | Description anglais | Description français |
+| ------ | -----------  |---------------------|----------------------|  
+|  😅    |     1F923     |grinning face with sweat |  visage souriant avec de la sueur |
+|   🥰     |      1F60D        |         smiling face with hearts            |  visage souriant avec des cœurs  |  
+|🤔         |1FAE1      | thinking face | visage réfléchi |
+|  😊 | 1F607 | smiling face with smiling eyes | visage souriant et yeux souriants |
+|😘 | 1F617 | face blowing a kiss | visage soufflant un baiser |
+|😂 | 1F642 | face with tears of joy | visage avec des larmes de joie |
+|🤤 | 1F976 | hot face | visage baveux |      
