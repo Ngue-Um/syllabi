@@ -151,3 +151,32 @@ votre forum WhatsApp dans le texte que vous voulez importer ; cela pourrait rale
 8. Cliquez sur le fichier joint (votre texte qui a été exporté de votre forum WhatsApp) dans votre mail ; une fenêtre s’affiche en bas de l’écran, vous invitant à choisir l’option d’ouverture du fichier.
 9. Choisissez l’option « Docs », puis validez en appuyant sur le bouton « Une seule fois » qui s’affiche plus bas.
 10. Une fenêtre s’affiche, vous invitant à « importer par consultation » ; cliquez sur le bouton « Importer » ; votre texte est ouvert dans Google Docs. Il ne vous reste plus qu’à l’exporter au fichier WORD ou PDF.
+
+### Étude de cas : collecte et transcription d'audios sur [Youtube](https://www.youtube.com)
+Depuis plus d'une cinquantaine d'années les corpus oraux et audiovisuels constituent un champ d'étude fécond en linguistique et en sciences du langage. L'apparition des appareils de captage du signaux audio et visuels a rendu possible l'étude des événements de langage tels que les émissions radio-diffusées et télévisées, ainsi que diverses formes d'enregistrements audio et audiovisuels.
+
+Avec l'avènement de l'Internet et du Web, nous assistons de plus en plus à une massification des contenus multimédias. En particulier, la prolifération des réseaux sociaux, la disponibilité et l'ubiquité des terminaux de production d'images, d'audio et de vidéos (smartphones, tablettes, ordinateurs, caméscopes, etc), rendent omniprésentes les communications à caractère multimodales. Que ce soit les enregistrements audio (communément appelés « voice »)  sur [WhatsApp](https://www.whatsapp.com/)), les _Snap_ sur [Snapchat](https://www.snapchat.com/) ou les Post sur [Instagram](https://www.instagram.com/), le langage dans l'espace cybernétique n'est assurément plus réduite au seul format texte qu'une certaines traditions d'études linguistiques et littéraires avait érigée au rang d'objet standard. Non seulement les espaces cybernétiques et les contenus qu'ils hébergent sont des terrains et des objets d'investigation légitimes pour le chercheur en science du langage, leur densification sonne comme une urgence épistémologique, si la linguistique, les sciences du langage et littéraires veulent rester connectées avec le vécu social.
+
+Nous aborderons ici, comme étude de cas, une approche de collecte et de transcription des contenus audio dans [Youtube](https://www.youtube.com).
+
+A première vue, [Youtube](https://www.youtube.com) héberge majoritairement des contenus audiovisuels. Se pose alors la question de savoir, filtrer ces contenus pour en extraire le signal audio, uniquement. Cet exercice est plus facile qu'il n'y paraît, au premier abord. Premièrement, il existe une variété d'outils graphiques (Graphical User Interface, ou GUI) utilsés dans le téléchargement des vidéos sur youtube. Nous pouvons citer quelques uns :
+
+- [By Click Downloader](https://www.byclickdownloader.com/fr/)
+- [Wondershare UniConverter](https://videoconverter.wondershare.net/lp/uniconverter-best-video-converter-brand.html?gad_source=1&gclid=EAIaIQobChMInqH-6LG_ggMVmtrtCh2fggcpEAAYASAAEgLKcvD_BwE)
+- 4K Video Downloader
+- [Leawo Video Downloader](https://www.4kdownload.com/-53)
+- [iTubeGo](https://itubego.com/en63/)
+- [Savefrom.net](https://fr.savefrom.net/348/)
+- [Catch.tube](https://catch.tube/)
+- [Clip Converter](https://www.clipconverter.cc/fr/3/)
+- [Snap Downloader](https://snapdownloader.com/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [JDownloader](https://jdownloader.org/)
+- [IDM](https://www.internetdownloadmanager.com/)
+- [Mediahuman Youtube Downloader](https://www.mediahuman.com/youtube-video-downloader/32/)
+- [VideoProc](https://www.videoproc.com/)
+- [Allavsoft Video and Audio Downloader](https://www.allavsoft.com/)
+- [YTD Video Downloader](https://www.ytddownloader.com/)
+- [Freemake Video Downloader](https://www.freemake.com/free_video_downloader_skillful/)
+- [aTube Catcher](https://www.atube.me/)
+- [Any Video Converter](https://www.any-video-converter.com/en8/for_video_free/)
