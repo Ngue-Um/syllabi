@@ -230,6 +230,6 @@ _whisper audio.wav --language French_
 
 ## Module 3 : Lecture distante des textes
 
-Selon une définition générée à l'aide du robot conversationnel (eh oui !!) Perplexity ai, la lecture distante est :
+Selon une définition générée à l'aide du robot conversationnel [Perplexity ai](https://www.perplexity.ai/search/Can-you-help-NbiXHGIkS9CTlmHTYd8SDA?s=c#b8c384bc-7078-485a-8f60-a678847f201c) (eh oui !! 😊) la lecture distante est :
 
       *une méthode d'analyse littéraire qui implique l'analyse de vastes corpus de textes à l'aide d'outils informatiques et statistiques, plutôt que de se concentrer sur la lecture approfondie d'œuvres individuelles. Cette méthode a été popularisée par le chercheur Franco Moretti et implique l'utilisation de logiciels et de bases de données pour repérer des tendances et des schémas dans la littérature. Cela contraste avec la "lecture proche" qui se concentre sur l'analyse détaillée d'œuvres spécifiques.*
