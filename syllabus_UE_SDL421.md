@@ -215,11 +215,11 @@ _ffmpeg -i chemin_vers_la_video.mp4 audio.wav_
 
 où "chemin_vers_la_video.mp4" représente l'adresse locale de la vidéo téléhargée (exemple "/home/pi/Documents/NLP/Data/Julie/video.mp4"), et où "audio" représente le nom du fichier audio que vous voulez extraire au format _.wav_.
 
-Maintenant que vous avez votre audio, il ne vous reste plus qu'à installer [whister](https://speechandtech.eu/news/state-asr/whisper). Une fois l'installation terminée, entrez la commande suivante dans le terminal:
+Maintenant que vous avez votre audio, il ne vous reste plus qu'à installer [whisper](https://speechandtech.eu/news/state-asr/whisper). Une fois l'installation terminée, entrez la commande suivante dans le terminal:
 
 _whisper audio.wav --language French_
 
-[whister](https://speechandtech.eu/news/state-asr/whisper) génèrement automatiquement une transcription de votre audio qu'il sauvegardera sous divers formats: texte pure (.txt), tableur (.csv), sous-titres (srt)
+[whisper](https://speechandtech.eu/news/state-asr/whisper) génèrement automatiquement une transcription de votre audio qu'il sauvegardera sous divers formats: texte pure (.txt), tableur (.csv), sous-titres (srt)
 
 
 ### Tavail à faire
@@ -227,3 +227,9 @@ _whisper audio.wav --language French_
 1. Rendez-vous sur la chaîne youtibe d'un influenceur ou d'une influenceuse de votre choix.
 2. Téléchargez une des vidéos postées dans la chaîne.
 3. Transcrivez automatiquement la vidéo à l'aide de [whister](https://speechandtech.eu/news/state-asr/whisper) (Notez que Youtube fournit aussi une transcription automatique des vidéos, mais les annotations qui en constituent la trame sont difficilement collectables sous la forme d'un fichier texte! Vous pouvez toujours essayez 😅)
+
+## Module 3 : Lecture distante des textes
+
+Selon une définition générée à l'aide du robot conversationnel (eh oui !!) Perplexity ai, la lecture distante est :
+
+      *une méthode d'analyse littéraire qui implique l'analyse de vastes corpus de textes à l'aide d'outils informatiques et statistiques, plutôt que de se concentrer sur la lecture approfondie d'œuvres individuelles. Cette méthode a été popularisée par le chercheur Franco Moretti et implique l'utilisation de logiciels et de bases de données pour repérer des tendances et des schémas dans la littérature. Cela contraste avec la "lecture proche" qui se concentre sur l'analyse détaillée d'œuvres spécifiques.*
