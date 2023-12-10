@@ -240,10 +240,14 @@ Pour celles et ceux d'entre vous qui voudraient travailler sur les textes litté
 
 Sans doute les formats de textes les plus connus dans les pratiques de rédaction et de lectures courantes dans notre environnement académique, ce sont les formats tels que *MS WORD* (Miscrosoft word), ou encore *PDF* (Portable Document Format). Les fichiers textes de format WORD peuvent se présenter sous différentes extensions (l'extension est le suffixe suivant la virgule dans  un nom de fichier ; par exemple, *mon-fichier.doc*). Voci quelques exemples :
 
-- *.doc: Document Word 97-2003*
-- *.docm: Document Word macro-enabled*
-- *.docx: Document Word*
+- *.doc: Document Word 97-2003* ;
+- *.docm: Document Word macro-enabled* ;
+- *.docx: Document Word* ;
 
-Quant aux fichiers textes au format *PDF*, ils se présent sous la forme d'une seule et même extension à savoir *.pdf*
+Quant aux fichiers textes au format *PDF*, ils se présentent sous la forme d'une seule et même extension à savoir l'extension *.pdf* (exemple, *mon-fichier.pdf*)
 
-Les fichiers de format WORD sont dits « modifiables », car on peut y ajouter ou soustraire du texte, changer le type ou la taille de police, etc. Les fichiers de format *PDF*, quant à eux, ne sont  pas généralement modifiables. Les modifications de peuvent être apportés à un document de type *PDF* que moyennant l'apport d'applications d'appoints, parfois commercialisés. 
+Les fichiers de format WORD sont dits « modifiables », car on peut y ajouter ou soustraire du texte, changer le type ou la taille de police, etc. Les fichiers de format *PDF*, quant à eux, ne sont  pas généralement modifiables. Les modifications de peuvent être apportées à un document de type *PDF* que moyennant l'utilisation d'applications d'appoints, parfois commercialisés. 
+
+Bien que le format WORD nous paraissent convivial et presque naturel, il s'agit en réalité d'un format dit « propriétaire ». C'est quoi donc, un format « propriétaire » ? Une fois de plus, [Perplexity ai](https://www.perplexity.ai/search/Can-you-help-NbiXHGIkS9CTlmHTYd8SDA?s=c#b8c384bc-7078-485a-8f60-a678847f201c)  à la rescousse !!
+
+        *Un format propriétaire, également appelé format fermé, est un format de données dont les spécifications sont contrôlées par des intérêts privés. Cela signifie que le format est contrôlé par une entité privée et n'est pas nécessairement accessible ou interopérable avec d'autres logiciels ou systèmes. Les spécifications d'un format propriétaire peuvent ne pas être connues, ce qui rend difficile le développement de logiciels capables de lire ou d'écrire ce type de format. Dans d'autres cas, les spécifications du format peuvent être connues, mais des restrictions légales associées à son utilisation existent, telles que des brevets logiciels. Les formats propriétaires peuvent être utilisés pour maintenir un contrôle sur les utilisateurs et augmenter le coût de la migration vers d'autres solutions logicielles. En revanche, un format ouvert est basé sur un standard public, ce qui le rend transparent et interopérable avec d'autres logiciels et systèmes.*
