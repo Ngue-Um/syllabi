@@ -265,7 +265,7 @@ Assez de formats de texte 😫 😫 😫 ! venons-en à notre belle lecture dist
 
 Pour notre entraînement à la lecture distante, nous irons chercher justement un texte dans la bibliothèque numérique du [Projet Gutenberg](https://www.gutenberg.org/). J'ai une fascination personnelle (je ne sais trop pourquoi) pour *Les Fleurs du mal* de Charles Baudelaire, publié pour la première fois en 1857. Il s'agit donc d'une oeuvre d'un auteur ancien dont l'accès n'est plus soumis aux droits d'auteur. Si vous êtes intéressés par le même ouvrage, vous pouvez directement accéder à sa version texte pure (*.txt*) en cliquant [ici](https://www.gutenberg.org/cache/epub/6099/pg6099.txt). 
 
-##Travail à faire##
+## Travail à faire
 1. ouvrir la plateforme d'exploration de texte [Voyant Tools](https://voyant-tools.org/) ; la page d'accueil de la plateforme est constituée d'un champ de texte (on peut lire ceci en sous-brillance à l'intérieur de ce champ : *Entrez une URL (ou plusieurs sur des lignes séparées) ou bien copiez tout un texte*).
 2. Laissez la page d'accueil de *Voyant Tools* ouverte, puis basculez de nouveau vers la page du Projet Gutenberg correspondant à l'oeuvre *Les Fleurs du mal*. 
 3. Déroulez légèrement la page du haut vers le bas, jusqu'au premier poème intitulé « SPLEEN ET IDÉAL ». 
