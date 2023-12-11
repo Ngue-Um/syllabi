@@ -65,7 +65,7 @@ Ce cours est organisé en trois modules.
 
 Le premier module a trait à l'espace numérique en tant qu'espace discursif. Nous définirons en les approfondissant, les concepts de "territoire numérique", de "communauté de discours", d'"économie de l'attention", d'"algorithme", de "techno-pouvoir".
 
-Le deuxième module a trait à la collecte des données sur les média/réseaux sociaux. Nous aborderons les techniques de captage massif (*web scrapping*) des textes, des images, des audios et des vidéos, à l'aide des outils graphiques mais aussi, en ligne de commande (pour les plus hardis et les aventuriers ![Alt text](image.png) !!) 
+Le deuxième module a trait à la collecte des données sur les média/réseaux sociaux. Nous aborderons les techniques de captage massif (*web scrapping*) des textes, des images, des audios et des vidéos, à l'aide des outils graphiques mais aussi, en ligne de commande (pour les plus hardis et les aventuriers ! 🕵!!) 
 
 Dans le troisième module, nous aborderons la lecture distante. Nous verrons comment explorer les données textuelles plus ou moins massives, pour extraire les paramètres les plus significatifs tels que les opinions et les sentiments. 
 
@@ -226,7 +226,7 @@ _whisper audio.wav --language French_
 
 1. Rendez-vous sur la chaîne youtibe d'un influenceur ou d'une influenceuse de votre choix.
 2. Téléchargez une des vidéos postées dans la chaîne.
-3. Transcrivez automatiquement la vidéo à l'aide de [whister](https://speechandtech.eu/news/state-asr/whisper) (Notez que Youtube fournit aussi une transcription automatique des vidéos, mais les annotations qui en constituent la trame sont difficilement collectables sous la forme d'un fichier texte! Vous pouvez toujours essayez 😅)
+3. Transcrivez automatiquement la vidéo à l'aide de [whisper](https://speechandtech.eu/news/state-asr/whisper) (Notez que Youtube fournit aussi une transcription automatique des vidéos, mais les annotations qui en constituent la trame sont difficilement collectables sous la forme d'un fichier texte! Vous pouvez toujours essayez 😅)
 
 ## Module 3 : Lecture distante des textes
 
