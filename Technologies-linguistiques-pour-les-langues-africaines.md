@@ -54,7 +54,9 @@ Initier les étudiants aux concepts de base des technologies linguistiques et le
 
 
 
-# Technologies Avancées pour la Revitalisation des Langues (LCC2)
+
+
+# Technologies Avancées pour la Revitalisation des Langues (LCC2 - ENS Yaound&)
 
 ## Objectif général
 Approfondir les compétences pratiques en TAL et explorer des applications concrètes pour la documentation et la revitalisation des langues.
@@ -104,3 +106,7 @@ Approfondir les compétences pratiques en TAL et explorer des applications concr
 - Quiz
 - Projet technique  + rapport (tient lieu de contrôle continu)
 - Examen semestriel
+
+
+Ressources
+- [Impact économique des opérations et activités du Conseil Culturel des Premières Nations de Colombie Britanique - Canada](https://b2drop.eudat.eu/s/x6pxNea6dnGPXcB)
