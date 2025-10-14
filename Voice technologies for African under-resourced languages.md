@@ -8,7 +8,7 @@
 
 ### Course Code: LING 204  
 **Level**: Year 2 (Undergraduate – Teacher Training)  
-**Semester**: 2  
+**Semester**: 1  
 **Contact Hours**: 45 (30 hours lecture, 15 hours lab/practice)  
 **Credits**:   
 **Instructor**: Prof Emmanuel Ngue Um 
