@@ -1,12 +1,12 @@
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](./README.md)
-[![Français](https://img.shields.io/badge/lang-Français-red.svg)](./README.fr.md)
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](./Voice\ technologies\ for\ African\ under-resourced\ languages.md)
+[![Français](https://img.shields.io/badge/lang-Français-red.svg)](./Technologies\ vocales\ pour\ les\ langues\ africaines\ peu\ dotées.md)
 
 
 # 📘 Course Syllabus  
 ## Voice Technologies for African Under-Resourced Languages  
 *(Technologies vocales pour les langues africaines peu dotées)*
 
-### Course Code: LING 204  
+### Course Code: LACC 2332  
 **Level**: Year 2 (Undergraduate – Teacher Training)  
 **Semester**: 1  
 **Contact Hours**: 45 (30 hours lecture, 15 hours lab/practice)  
