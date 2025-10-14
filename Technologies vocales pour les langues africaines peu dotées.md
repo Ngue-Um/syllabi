@@ -1,5 +1,5 @@
-[![English](https://img.shields.io/badge/lang-English-blue.svg)](Voice\ technologies\ for\ African\ under-resourced\ languages.md)
-[![Français](https://img.shields.io/badge/lang-Français-red.svg)](Technologies\ vocales\ pour\ les\ langues\ africaines\ peu\ dotées.md)
+[🇬🇧 English version](https://github.com/Ngue-Um/syllabi/blob/main/Voice%20technologies%20for%20African%20under-resourced%20languages.md)
+
 # 📘 Plan de cours  
 ## Technologies vocales pour les langues africaines peu dotées  
 *(Voice Technologies for African Under-Resourced Languages)*
@@ -13,7 +13,6 @@
 **Email** : emmanuel.ngue-um@univ-yaounde1.cm  
 **Heures de permanence** : Mardi, 15-17 pm (GMT +1)
 
-[🇬🇧 English Version](Voice\ technologies\ for\ African\ under-resourced\ languages.md)
 
 ---
 
