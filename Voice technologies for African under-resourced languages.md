@@ -1,5 +1,4 @@
-[![English](https://img.shields.io/badge/lang-English-blue.svg)][Voice\ technologies\ for\ African\ under-resourced\ languages.md](https://github.com/Ngue-Um/syllabi/blob/main/Voice%20technologies%20for%20African%20under-resourced%20languages.md)
-[![Français](https://img.shields.io/badge/lang-Français-red.svg)][Technologies\ vocales\ pour\ les\ langues\ africaines\ peu\ dotées.md](https://github.com/Ngue-Um/syllabi/blob/main/Technologies%20vocales%20pour%20les%20langues%20africaines%20peu%20dot%C3%A9es.md)
+[🇫🇷 Version française](https://github.com/Ngue-Um/syllabi/blob/main/Technologies%20vocales%20pour%20les%20langues%20africaines%20peu%20dot%C3%A9es.md)
 
 
 # 📘 Course Syllabus  
@@ -14,6 +13,7 @@
 **Instructor**: Prof Emmanuel Ngue Um 
 **Email**: emmanuel.ngue-um@univ-yaounde1.cm
 **Office Hours**: Tuesday, 15-17 pm (GMT +1)
+
 
 ---
 
