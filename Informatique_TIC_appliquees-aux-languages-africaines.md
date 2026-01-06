@@ -75,7 +75,7 @@ Chaque séance correspond à environ **2–3 heures**.
 - Qu’est-ce qu’une donnée linguistique ?
 - Types de données : texte, audio, vidéo, multimodal
 - Corpus vs simple collection de textes
-- Exemples de corpus africains (Common Voice, ELAN, blogs, récits oraux)
+- Exemples de corpus africains, examples: [Commonvoice](https://commonvoice.mozilla.org/), [Mozilla Data Collective](https://datacollective.mozillafoundation.org/datasets), [Elar](https://www.elararchive.org), [Dobes](https://archive.mpi.nl/tla/islandora/search/Bakola?type=dismax), [blogs](https://antoinepondipondi.blogspot.com), récits oraux)
 
 ### Activités étudiantes
 - Identifier des données linguistiques autour de soi (famille, marché, école)
