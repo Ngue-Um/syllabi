@@ -1,6 +1,10 @@
 # Informatique / TIC appliquées aux langues africaines  
 **Département de Langues et Cultures Camerounaises – ENS, Université de Yaoundé I**
+
+---
 **LCC1 - Années académique 2025-26**
+
+---
 **Cours conçu et dispensé par Emmanuel Ngué Um, Enseignant à l'ENS de Yaoundé***
 
 ---
