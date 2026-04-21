@@ -56,7 +56,7 @@ Initier les étudiants aux concepts de base des technologies linguistiques et le
 
 
 
-# Technologies Avancées pour la Revitalisation des Langues (LCC2 - ENS Yaound&)
+# Technologies Avancées pour la Revitalisation des Langues (LCC2 - ENS Yaoundé)
 
 ## Objectif général
 Approfondir les compétences pratiques en TAL et explorer des applications concrètes pour la documentation et la revitalisation des langues.

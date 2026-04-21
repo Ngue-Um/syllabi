@@ -31,7 +31,7 @@ Outiller les élèves-professeurs de langues et cultures camerounaises pour tran
 
 #### Séance 1 — Introduction générale et cadrage
 
-- Rappel des acquis de LCC1 : technologies linguistiques, corpus, panorama des langues camerounaises.
+- Rappel des acquis de LCC1322 : technologies linguistiques, corpus, panorama des langues camerounaises.
 - Transcription manuelle vs transcription numérique : enjeux pour l'enseignement secondaire.
 - Présentation du dispositif du cours, du calendrier, des livrables et des critères d'évaluation.
 - Inscription sur la plateforme Mozilla Data Collective : [mdc — Institut des Humanités numériques africaines](https://mozilladatacollective.com/organization/cmfv3ichk000amd07piai0zoz).
@@ -165,4 +165,4 @@ Les élèves-professeurs peuvent choisir leur langue de référence dans les 16 
 - Radford, A., et al. (2022). Robust Speech Recognition via Large-Scale Weak Supervision (Whisper). *arXiv:2212.04356*.
 - Pratap, V., et al. (2023). Scaling Speech Technology to 1000+ Languages (MMS). *Meta AI*.
 - Tadadjeu, M., & Sadembouo, E. (1979). *Alphabet général des langues camerounaises*. Yaoundé : Université de Yaoundé.
-- Ngue Um, E. (à paraître). *Humanités numériques et langues africaines : enjeux de la constitution de corpus vocaux ouverts*.
+- Ngué Um, E., Tyers, F., Ngo Tjomb, E.-E.C., Dibengue, F.L., Banoum Manguele, B.-M., Abbo Djoulde, B., et al. (2025). Speech Technologies Datasets for African Under-S
