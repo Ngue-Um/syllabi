@@ -1,4 +1,4 @@
-# Enseigner les langues camerounaises à l'ère de l'intelligence artificielle : Likalo et la production du matériel didactique numérique (LACC2342 — ENS Yaoundé)
+# Enseigner les langues camerounaises à l'ère de l'intelligence artificielle : production du matériel didactique numérique (exemple de la plateforme Likalo) (LACC2342 — ENS Yaoundé)
 
 > Version 2 de l'UE « Outils pour la production du matériel didactique numérique et multimédia en langues camerounaises ». Version précédente : [syllabus 2025-2026](https://github.com/Ngue-Um/syllabi/blob/main/Outils-pour-la-production-du-materiel-didactique-numerique-et-multimedia-en-langues-camerounaises.md).
 
