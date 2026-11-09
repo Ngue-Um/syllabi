@@ -6,11 +6,11 @@
 **Institution** : École Normale Supérieure de Yaoundé — Université de Yaoundé I — Département des Langues et Cultures Camerounaises
 **Intitulé administratif de l'UE** : Outils pour la production du matériel didactique numérique et multimédia en langues camerounaises (LACC2342)
 **Public** : Élèves-professeurs de Niveau 2
-**Année universitaire** : 2026-2027, Semestre 2
+**Année universitaire** : 2026-2027, Semestre 1
 **Horaire** : à préciser
 **Volume horaire** : 28 heures (14 séances de 2 heures)
 **Évaluation** : Contrôle continu 30 % + Projet d'équipe progressif 70 %
-**Prérequis** : Technologies vocales pour les langues africaines peu dotées (LCC2, S1) ; accès à un smartphone ou à un ordinateur connecté
+**Prérequis** : Technologies vocales pour les langues africaines peu dotées (LCC1, S2) ; accès à un smartphone ou à un ordinateur connecté
 **Plateforme d'appui** : [Likalo — Enseignement/Apprentissage des Langues et Cultures Camerounaises](https://likalo.pages.dev/#/lecons) (miroir : [ngue-um.github.io/Enseignement-Apprentissage-LN](https://ngue-um.github.io/Enseignement-Apprentissage-LN/index.html#/))
 
 ---
